@@ -1,0 +1,26 @@
+make a new directory
+
+create a file
+
+init git
+- git init
+
+add file
+- git add 'filename'
+could add any way
+
+commit
+- git commit -m "message"
+-m flag doesn't matter
+
+set branch
+- git branch -M main
+
+remote add
+- git remote add origin https://github.com/vincentcordes/vincentcordes.git
+
+push
+git push -u origin main
+
+
+
